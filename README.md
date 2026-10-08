@@ -78,10 +78,4 @@ This is one pilot response to a scaffolded case, not a general model ranking. Th
 - [Scientific review](evidence/scientific-review.md) maps each question to methodological sources and records completed checks.
 - [References](evidence/references.md) distinguish methodological evidence from invented measurements.
 
-## Project context and contribution
-
-This work sample is designed to demonstrate experimental interpretation, scientific writing and task evaluation relevant to life-sciences subject-matter work. It is an independent portfolio project and is not affiliated with or endorsed by Turing or LifeSciBench.
-
-The portfolio owner selected the biological domain and project direction, reviewed the prepared documents and directed the revisions and pilot testing. AI assistance supported drafting, literature checking, calculations, document preparation and response scoring. The supplied documents have been reviewed by the owner; no external specialist review is claimed.
-
 Version 1.0 · Prepared 8 October 2026
