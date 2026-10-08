@@ -1,0 +1,4 @@
+measurement,control,compound_x,unit
+target_mrna_cq,25,24,cycles
+reference_h_cq,20,19,cycles
+reference_h_per_cell,1,2,relative abundance
