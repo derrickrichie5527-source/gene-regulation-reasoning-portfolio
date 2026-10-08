@@ -1,0 +1,28 @@
+{
+  "status": "mathematical consistency checked; empirical validation pending",
+  "date": "2026-10-08",
+  "reported_qpcr_ratio": 1,
+  "corrected_mrna_ratio": 2,
+  "corrected_new_rna_ratio": 2.0,
+  "loss_rates_per_hour": [
+    0.17328679513998632,
+    0.11552453009332421
+  ],
+  "growth_rates_per_hour": [
+    0.057762265046662105,
+    0.028881132523331052
+  ],
+  "degradation_rates_per_hour": [
+    0.11552453009332422,
+    0.08664339756999316
+  ],
+  "degradation_half_lives_hours": [
+    5.999999999999999,
+    8.0
+  ],
+  "synthesis_ratio": 2.0,
+  "effective_synthesis_per_mrna_ratio": 1.0,
+  "reconstructed_protein_ratio": 3.0,
+  "rubric_points": 40,
+  "panel_d_formula": "fraction=2**(-time/loss_half_life); loss half-lives 4 and 6 hours"
+}
