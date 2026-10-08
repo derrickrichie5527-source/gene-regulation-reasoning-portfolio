@@ -1,0 +1,3 @@
+measurement,control,compound_x,unit
+captured_target_signal,100,100,arbitrary signal
+spike_recovery,0.8,0.4,fraction
