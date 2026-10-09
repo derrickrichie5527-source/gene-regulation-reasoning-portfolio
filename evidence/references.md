@@ -46,4 +46,4 @@ Peer-reviewed original research. Functional perturbation of endogenous regulator
 
 ## Research boundary
 
-This is a focused literature and mathematical consistency review of the case, not a systematic review, peer review, wet-lab validation or independent assessment of the owner's expertise. A 2025 protein-clearance preprint was encountered during research but was not used as a core authority; peer-reviewed S5 and S6 support the model instead. The 2011 global gene-expression study was not used for broad claims about the dominance of translation because its publisher records a correction. No proprietary LifeSciBench tasks, rules or scoring thresholds were accessed.
+This is a focused literature and mathematical consistency review of the case, not a systematic review, peer review, wet-lab validation or independent assessment of the owner's expertise. A 2025 protein-clearance preprint was encountered during research but was not used as a core authority; peer-reviewed S5 and S6 support the model instead. The 2011 global gene-expression study was not used for broad claims about the dominance of translation because its publisher records a correction.
